@@ -93,7 +93,7 @@ const App = () => {
                                             URL
                                           </Typography>
                                           <Typography>
-                                            Campaing Name
+                                            Campaign Name
                                           </Typography>
                                       </Grid>
                                       <Grid item xs={2} justify="center" alignItems="center" style={{ display: 'flex' }}>
